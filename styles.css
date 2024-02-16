@@ -18,6 +18,7 @@ body {
   width: 70vw;
   display: inherit;
   gap: 2rem;
+ justify-content: space-evenly;
 }
 .galleryImage{
   width: 100%;
@@ -28,7 +29,6 @@ body {
   color: darkpink;
   background-color: lightblue;
   text-align: center;
-  justify-content: space-around;
 }
 }
 
