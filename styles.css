@@ -17,8 +17,8 @@ body {
 #staffGallery{
   width: 70vw;
   display: inherit;
-  gap: 2rem;
- justify-content: space-evenly;
+  gap: 10px;
+  justify-content: space-evenly;
 }
 .galleryImage{
   width: 100%;
@@ -33,7 +33,7 @@ body {
 }
 
 @media (max-height: 680px), screen and (orientation: portrait) {
-#logoBar{
+/* #logoBar{
   width: 30vw;
   height: 100vh;
   font-family: "Lucida Console", "Courier New";
@@ -64,5 +64,5 @@ body {
   color: darkpink;
   background-color: lightblue;
   text-align: center;
-}
+} */
 }
