@@ -1,3 +1,4 @@
+@media screen and (orientation: landscape) {
 #logoBar{
   width: 30vw;
   height: 100vh;
@@ -28,4 +29,40 @@ body {
   color: darkpink;
   background-color: lightblue;
   text-align: center;
+}
+}
+
+@media (min-height: 680px), screen and (orientation: portrait) {
+  #logoBar{
+  width: 30vw;
+  height: 100vh;
+  font-family: "Lucida Console", "Courier New";
+  color: darkpink;
+}
+#siteLogo{
+  width: 100%;
+}
+body {
+  display: flex;
+  flex-direction: column;
+  background-color: lightpink;
+  font-family: "Lucida Console", "Courier New";
+  justify-content: space-evenly;
+  color: darkpink;
+  align-items: center;
+}
+#staffGallery{
+  width: 70vw;
+  display: inherit;
+}
+.galleryImage{
+  width: 100%;
+  height: auto;
+  height: 300px;
+}
+.card {
+  color: darkpink;
+  background-color: lightblue;
+  text-align: center;
+}
 }
