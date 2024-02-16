@@ -12,7 +12,6 @@ body {
   background-color: lightpink;
   font-family: "Lucida Console", "Courier New";
   justify-content: space-evenly;
-  align-items: center;
   color: darkpink;
 }
 #staffGallery{
@@ -29,6 +28,5 @@ body {
 .card {
   color: darkpink;
   background-color: lightblue;
-  padding: 5px 20px;
   text-align: center;
 }
