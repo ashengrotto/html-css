@@ -12,7 +12,7 @@ body {
   display: flex;
   background-color: lightpink;
   font-family: "Lucida Console", "Courier New";
-  justify-content: space-evenly;
+  justify-content: space-around;
   color: darkpink;
 }
 #staffGallery{
@@ -28,6 +28,7 @@ body {
   color: darkpink;
   background-color: lightblue;
   text-align: center;
+  justify-content: space-around;
 }
 }
 
