@@ -8,7 +8,7 @@
   width: 100%;
 }
 body {
-  display: flex-wrap;
+  display: flex;
   background-color: lightpink;
   font-family: "Lucida Console", "Courier New";
   justify-content: space-evenly;
