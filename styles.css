@@ -12,7 +12,6 @@ body {
   display: flex;
   background-color: lightpink;
   font-family: "Lucida Console", "Courier New";
-  justify-content: flex-start;
   justify-content: space-evenly;
   color: darkpink;
 }
