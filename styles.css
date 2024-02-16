@@ -29,11 +29,8 @@ body {
 #staffGallery {
   width: 70vw;
   display: inherit;
-  flex-direction: row;
   align-content: space-between;
   flex-wrap: wrap;
-  padding-top: 1rem;
-  padding-bottom: 1rem;
 }
 
 .galleryImage {
@@ -46,7 +43,6 @@ body {
   width: 100%;
   height: 100%;
   display: flex;
-  flex-direction: column;
   justify-content: space-between;
   margin-left: 10px;
   margin-right: 10px;
