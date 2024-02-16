@@ -1,7 +1,8 @@
 #logoBar{
   width: 30vw;
   height: 100vh;
-  font-family: "Times New Roman", Times, serif;
+  font-family: "Lucida Console", "Courier New";
+  color: darkpink;
 }
 #siteLogo{
   width: 100%;
@@ -9,8 +10,7 @@
 body {
   display: flex;
   background-color: lightpink;
-  color: darkpink;
-  font-family: "Times New Roman", Times, serif;
+  font-family: "Lucida Console", "Courier New";
 }
 #staffGallery{
   width: 70vw;
@@ -23,6 +23,6 @@ body {
   height: 300px;
 }
 
-.class {
+.card {
 
 }
