@@ -4,7 +4,11 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+}
+
+#h1 {
   font-family: "Times New Roman", Times, serif;
+  color: darkblue;
 }
 
 #siteLogo {
