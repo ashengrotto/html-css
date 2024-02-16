@@ -32,7 +32,7 @@ body {
 }
 }
 
-@media (min-height: 680px), screen and (orientation: portrait) {
+@media (max-height: 680px), screen and (orientation: portrait) {
 #logoBar{
   width: 30vw;
   height: 100vh;
