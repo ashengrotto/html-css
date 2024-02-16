@@ -9,6 +9,7 @@ body {
   display: flex;
   background-color: lightpink;
   color: darkpink;
+  font-family: "Times New Roman", Times, serif;
 }
 #staffGallery{
   width: 70vw;
