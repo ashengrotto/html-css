@@ -13,6 +13,7 @@ body {
   font-family: "Lucida Console", "Courier New";
   justify-content: space-evenly;
   align-items: center;
+  color: darkpink;
 }
 #staffGallery{
   width: 70vw;
