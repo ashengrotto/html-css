@@ -3,7 +3,7 @@
   width: 30vw;
   height: 100vh;
   font-family: "Lucida Console", "Courier New";
-  color: darkpink;
+  color: darkblue;
 }
 #siteLogo{
   width: 100%;
@@ -27,7 +27,6 @@ body {
   height: 300px;
 }
 .card {
-  color: darkpink;
   background-color: lightblue;
   text-align: center;
 }
