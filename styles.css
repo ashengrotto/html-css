@@ -26,18 +26,18 @@ body {
   width: 100vw;
   height: 100vh;
   display: flex;
-  justify-content: space-evenly;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: start;
 }
 
 #staffGallery {
   width: 70vw;
   display: flex;
+  justify-content: space-evenly;
   align-self: center;
   padding-top: 10px;
   padding-bottom: 10px;
-  justify-content: flex-start;
-  align-items: flex-start;
-  flex-wrap: wrap;
 }
 
 .galleryImage {
